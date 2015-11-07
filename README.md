@@ -41,7 +41,7 @@ pebble-spark-base - [Source](https://github.com/C-D-Lewis/pebble-spark-base)
 
 pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-check)
 
-pin-viewer - [Source](https://github.com/C-D-Lewis/pin-viewer)
+pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
 
 universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb)
 
