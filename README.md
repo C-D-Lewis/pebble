@@ -11,7 +11,7 @@ News Headlines - [Appstore](https://apps.getpebble.com/applications/5387b383f608
 
 Tube Status - [Appstore](https://apps.getpebble.com/applications/529e8742d7894b189c000012) - [Source](https://github.com/C-D-Lewis/tube-status)
 
-Wristponder - [Appstore](https://apps.getpebble.com/applications/52ff6a14432d1cef0000007c)
+Wristponder - [Appstore](https://apps.getpebble.com/applications/52ff6a14432d1cef0000007c) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.wristponder&hl=en)
 
 
 ## Watchfaces
@@ -82,4 +82,4 @@ Starfield Smooth - [Appstore](https://apps.getpebble.com/applications/52cd48ecc2
 
 ToastLayer - [Source](https://github.com/C-D-Lewis/ToastLayer)
 
-Watch Trigger - [Appstore](https://apps.getpebble.com/applications/5299db06129af72f48000081) - 
+Watch Trigger - [Appstore](https://apps.getpebble.com/applications/5299db06129af72f48000081)
