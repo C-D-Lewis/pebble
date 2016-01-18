@@ -18,6 +18,8 @@ Wristponder - [Appstore](https://apps.getpebble.com/applications/52ff6a14432d1ce
 
 Beam Up - [Appstore](http://apps.getpebble.com/en_US/application/5299d4da129af7d723000079) - [Source](https://github.com/C-D-Lewis/beam-up)
 
+Brackets - [Appstore](https://apps.getpebble.com/applications/569c52fcee59668e2f00001d) - [Source](https://github.com/C-D-Lewis/brackets)
+
 Isotime - [Appstore](https://apps.getpebble.com/applications/554574943bbdc6c8560000bf) - [Source](https://github.com/pebble-hacks/isotime)
 
 KS Original - [Appstore](https://apps.getpebble.com/applications/55457fd43bbdc6cb800000ae) - [Source](https://github.com/pebble-examples/ks-clock-face)
@@ -30,6 +32,8 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
 
 ## Libraries
+
+Layout - [Source](https://github.com/pebble-hacks/layout)
 
 NotifLayer - [Source](https://github.com/C-D-Lewis/notif-layer)
 
