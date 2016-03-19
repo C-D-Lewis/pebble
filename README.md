@@ -24,8 +24,6 @@ Isotime - [Appstore](https://apps.getpebble.com/applications/554574943bbdc6c8560
 
 KS Original - [Appstore](https://apps.getpebble.com/applications/55457fd43bbdc6cb800000ae) - [Source](https://github.com/pebble-examples/ks-clock-face)
 
-Shadow - [Appstore](https://apps.getpebble.com/applications/55457d483bbdc67df20000e0)
-
 Thin - [Appstore](https://apps.getpebble.com/applications/550ccb556caaed4e0100006d) - [Source](https://github.com/C-D-Lewis/thin)
 
 Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa0000025) - [Source](https://github.com/pebble-hacks/time-dots)
@@ -75,6 +73,8 @@ Potential Divider: Small - [Appstore](https://apps.getpebble.com/applications/53
 Seven Segments - [Appstore](https://apps.getpebble.com/applications/541def5c8de57181af00015c) - [Source](https://github.com/C-D-Lewis/seven-segments)
 
 Seven Segments Date - [Appstore](https://apps.getpebble.com/applications/543f572c9eefcbadf0000060) - [Source](https://github.com/C-D-Lewis/seven-segments-date)
+
+Shadow - [Appstore](https://apps.getpebble.com/applications/55457d483bbdc67df20000e0)
 
 Split Horizon: Seconds Edition - [Appstore](https://apps.getpebble.com/applications/52f10cf7a0cb6abe6d002f98) - [Source](https://github.com/C-D-Lewis/split-horizon-se)
 
