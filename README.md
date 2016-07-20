@@ -31,6 +31,8 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
 ## Libraries
 
+Dash API - [Source](https://github.com/C-D-Lewis/dash-api)
+
 Layout - [Source](https://github.com/pebble-hacks/layout)
 
 NotifLayer - [Source](https://github.com/C-D-Lewis/notif-layer)
