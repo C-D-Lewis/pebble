@@ -47,6 +47,8 @@ pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-chec
 
 pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
 
+timeline.js - [Source](https://github.com/C-D-Lewis/timelinejs)
+
 universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
 
 
