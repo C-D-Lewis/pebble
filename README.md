@@ -1,6 +1,6 @@
 # pebble
 
-This is a list of all my Pebble watchfaces, watchapps, and libraries.
+This is a portfolio of all my published Pebble watchfaces, watchapps, and libraries.
 
 
 ## Watchapps
@@ -20,6 +20,10 @@ Beam Up - [Appstore](http://apps.getpebble.com/en_US/application/5299d4da129af7d
 
 Brackets - [Appstore](https://apps.getpebble.com/applications/569c52fcee59668e2f00001d) - [Source](https://github.com/C-D-Lewis/brackets)
 
+Dual Gauge - [Appstore](https://apps.getpebble.com/en_US/application/578cb2e31e00a6c4b3000312) - [Source](https://github.com/C-D-Lewis/dual-gauge)
+
+Eventful - [Appstore](https://apps.getpebble.com/en_US/application/579a076222f599d627000064) - [Source](https://github.com/C-D-Lewis/eventful)
+
 Isotime - [Appstore](https://apps.getpebble.com/applications/554574943bbdc6c8560000bf) - [Source](https://github.com/pebble-hacks/isotime)
 
 KS Original - [Appstore](https://apps.getpebble.com/applications/55457fd43bbdc6cb800000ae) - [Source](https://github.com/pebble-examples/ks-clock-face)
@@ -31,23 +35,19 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
 ## Libraries
 
-Dash API - [Source](https://github.com/C-D-Lewis/dash-api)
+Dash API - [Source](https://github.com/C-D-Lewis/dash-api) - [NPM](https://www.npmjs.com/package/pebble-dash-api)
 
 Layout - [Source](https://github.com/pebble-hacks/layout)
 
-NotifLayer - [Source](https://github.com/C-D-Lewis/notif-layer)
-
 owm-weather - [Source](https://github.com/pebble-hacks/owm-weather)
 
-PGE - [Source](https://github.com/C-D-Lewis/pge)
-
-pebble-spark-base - [Source](https://github.com/C-D-Lewis/pebble-spark-base)
+PGE - [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
 
 pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-check)
 
 pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
 
-universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb)
+universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
 
 
 ## Old/Unsupported
@@ -66,9 +66,13 @@ Eclipse - [Appstore](https://apps.getpebble.com/applications/533186dd4f6e8960e90
 
 Index - [Appstore](https://apps.getpebble.com/applications/53ce4305b40eda738a00018d) - [Source](https://github.com/C-D-Lewis/index)
 
+NotifLayer - [Source](https://github.com/C-D-Lewis/notif-layer)
+
 Past, Present, Future - [Appstore](https://apps.getpebble.com/applications/53795d5062e09fef83000077) - [Source](https://github.com/C-D-Lewis/past-present-future)
 
 pebble-alert-lib - [Source](https://github.com/C-D-Lewis/pebble-alert-lib)
+
+pebble-spark-base - [Source](https://github.com/C-D-Lewis/pebble-spark-base)
 
 Potential Divider: Small - [Appstore](https://apps.getpebble.com/applications/533b2b90f9fe92524e00006a) - [Source](https://github.com/C-D-Lewis/divider-small-2)
 
