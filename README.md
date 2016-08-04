@@ -41,9 +41,11 @@ Layout - [Source](https://github.com/pebble-hacks/layout)
 
 owm-weather - [Source](https://github.com/pebble-hacks/owm-weather)
 
-PGE - [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
+pebble-packet - [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
 
 pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-check)
+
+PGE - [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
 
 pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
 
