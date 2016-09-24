@@ -37,19 +37,17 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
 Dash API - [Source](https://github.com/C-D-Lewis/dash-api) - [NPM](https://www.npmjs.com/package/pebble-dash-api)
 
-Layout - [Source](https://github.com/pebble-hacks/layout)
-
 owm-weather - [Source](https://github.com/pebble-hacks/owm-weather)
 
 pebble-packet - [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
 
+pebble-timeline-js - [Source](https://github.com/C-D-Lewis/pebble-timeline-js) - [NPM](https://www.npmjs.com/package/pebble-timeline-js)
+
+pebble-timeline-js-node - [Source](https://github.com/C-D-Lewis/pebble-timeline-js-node) - [NPM](https://www.npmjs.com/package/pebble-timeline-js-node)
+
 pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-check)
 
 PGE - [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
-
-pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
-
-timeline.js - [Source](https://github.com/C-D-Lewis/timelinejs)
 
 universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
 
@@ -70,6 +68,8 @@ Eclipse - [Appstore](https://apps.getpebble.com/applications/533186dd4f6e8960e90
 
 Index - [Appstore](https://apps.getpebble.com/applications/53ce4305b40eda738a00018d) - [Source](https://github.com/C-D-Lewis/index)
 
+Layout - [Source](https://github.com/pebble-hacks/layout)
+
 NotifLayer - [Source](https://github.com/C-D-Lewis/notif-layer)
 
 Past, Present, Future - [Appstore](https://apps.getpebble.com/applications/53795d5062e09fef83000077) - [Source](https://github.com/C-D-Lewis/past-present-future)
@@ -77,6 +77,8 @@ Past, Present, Future - [Appstore](https://apps.getpebble.com/applications/53795
 pebble-alert-lib - [Source](https://github.com/C-D-Lewis/pebble-alert-lib)
 
 pebble-spark-base - [Source](https://github.com/C-D-Lewis/pebble-spark-base)
+
+pin-checker - [Source](https://github.com/C-D-Lewis/pin-checker)
 
 Potential Divider: Small - [Appstore](https://apps.getpebble.com/applications/533b2b90f9fe92524e00006a) - [Source](https://github.com/C-D-Lewis/divider-small-2)
 
@@ -89,6 +91,8 @@ Shadow - [Appstore](https://apps.getpebble.com/applications/55457d483bbdc67df200
 Split Horizon: Seconds Edition - [Appstore](https://apps.getpebble.com/applications/52f10cf7a0cb6abe6d002f98) - [Source](https://github.com/C-D-Lewis/split-horizon-se)
 
 Starfield Smooth - [Appstore](https://apps.getpebble.com/applications/52cd48ecc296577c6c00002f) - [Source](https://github.com/C-D-Lewis/starfield-smooth)
+
+timeline.js - [Source](https://github.com/C-D-Lewis/timelinejs)
 
 ToastLayer - [Source](https://github.com/C-D-Lewis/ToastLayer)
 
