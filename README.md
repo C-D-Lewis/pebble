@@ -9,7 +9,6 @@ This is a portfolio of all my published Pebble watchfaces, watchapps, and librar
 
   [Appstore](https://apps.getpebble.com/applications/53ec8d840c3036447e000109) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.dashboard&hl=en)
 
-
 * News Headlines - See BBC News headlines in multiple categories.
 
   [Appstore](https://apps.getpebble.com/applications/5387b383f60819963900000e)
@@ -44,23 +43,37 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
 ## Libraries
 
-Dash API - [Source](https://github.com/C-D-Lewis/dash-api) - [NPM](https://www.npmjs.com/package/pebble-dash-api)
+* Dash API - Enable C-only apps to use Android APIs.
 
-owm-weather - [Source](https://github.com/pebble-hacks/owm-weather)
+  [Source](https://github.com/C-D-Lewis/dash-api) - [NPM](https://www.npmjs.com/package/pebble-dash-api)
 
-pebble-packet - [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
+* pebble-packet - Never manually use AppMessage's `DictionaryIterator` again!
+  
+  [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
 
-pebble-simple-request - [Source](https://github.com/C-D-Lewis/pebble-simple-request) - [NPM](https://www.npmjs.com/package/pebble-simple-request)
+* pebble-simple-request - Make simple `GET` and `POST` requests in PebbleKit JS. 
+  
+  [Source](https://github.com/C-D-Lewis/pebble-simple-request) - [NPM](https://www.npmjs.com/package/pebble-simple-request)
 
-pebble-timeline-js - [Source](https://github.com/C-D-Lewis/pebble-timeline-js) - [NPM](https://www.npmjs.com/package/pebble-timeline-js)
+* pebble-timeline-js - Easily post timeline pins to the current app user from PebbleKit JS.
+  
+  [Source](https://github.com/C-D-Lewis/pebble-timeline-js) - [NPM](https://www.npmjs.com/package/pebble-timeline-js)
 
-pebble-timeline-js-node - [Source](https://github.com/C-D-Lewis/pebble-timeline-js-node) - [NPM](https://www.npmjs.com/package/pebble-timeline-js-node)
+* pebble-timeline-js-node - Node version of `pebble-timeline-js` to post to shared topics.
 
-pebble-version-check - [Source](https://github.com/C-D-Lewis/pebble-version-check)
+  [Source](https://github.com/C-D-Lewis/pebble-timeline-js-node) - [NPM](https://www.npmjs.com/package/pebble-timeline-js-node)
 
-PGE - [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
+* pebble-version-check - Simple version checking library for Android companion apps.
 
-universal-fb - [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
+  [Source](https://github.com/C-D-Lewis/pebble-version-check)
+
+* PGE - Simple looping game engine for Pebble with optional extensions.
+
+  [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
+
+* universal-fb - Simple wrapper for common framebuffer get/set/replace operations.
+
+  [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
 
 
 ## Old/Unsupported
