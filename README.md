@@ -5,16 +5,22 @@ This is a portfolio of all my published Pebble watchfaces, watchapps, and librar
 
 ## Watchapps
 
-* Dashboard - Control and view Android features (WiFi, BT, Ringer, Hotspot etc.)
+* Dashboard - Control and view Android features (WiFi, BT, Ringer, Hotspot etc.).
 
   [Appstore](https://apps.getpebble.com/applications/53ec8d840c3036447e000109) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.dashboard&hl=en)
 
 
-News Headlines - [Appstore](https://apps.getpebble.com/applications/5387b383f60819963900000e)
+* News Headlines - See BBC News headlines in multiple categories.
 
-Tube Status - [Appstore](https://apps.getpebble.com/applications/529e8742d7894b189c000012) - [Source](https://github.com/C-D-Lewis/tube-status)
+  [Appstore](https://apps.getpebble.com/applications/5387b383f60819963900000e)
 
-Wristponder - [Appstore](https://apps.getpebble.com/applications/52ff6a14432d1cef0000007c) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.wristponder&hl=en)
+* Tube Status - See status of London Underground lines and get timeline pin alerts to delays.
+
+  [Appstore](https://apps.getpebble.com/applications/529e8742d7894b189c000012) - [Source](https://github.com/C-D-Lewis/tube-status)
+
+* Wristponder - Send SMS replies to a variety of contact types.
+
+  [Appstore](https://apps.getpebble.com/applications/52ff6a14432d1cef0000007c) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.wristponder&hl=en)
 
 
 ## Watchfaces
