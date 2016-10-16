@@ -41,6 +41,8 @@ owm-weather - [Source](https://github.com/pebble-hacks/owm-weather)
 
 pebble-packet - [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
 
+pebble-simple-request - [Source](https://github.com/C-D-Lewis/pebble-simple-request) - [NPM](https://www.npmjs.com/package/pebble-simple-request)
+
 pebble-timeline-js - [Source](https://github.com/C-D-Lewis/pebble-timeline-js) - [NPM](https://www.npmjs.com/package/pebble-timeline-js)
 
 pebble-timeline-js-node - [Source](https://github.com/C-D-Lewis/pebble-timeline-js-node) - [NPM](https://www.npmjs.com/package/pebble-timeline-js-node)
@@ -97,3 +99,5 @@ timeline.js - [Source](https://github.com/C-D-Lewis/timelinejs)
 ToastLayer - [Source](https://github.com/C-D-Lewis/ToastLayer)
 
 Watch Trigger - [Appstore](https://apps.getpebble.com/applications/5299db06129af72f48000081)
+
+And anything else you manage to find in my GitHub account!
