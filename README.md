@@ -47,9 +47,17 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
   [Source](https://github.com/C-D-Lewis/dash-api) - [NPM](https://www.npmjs.com/package/pebble-dash-api)
 
+* pebble-isometric - Isometric graphics drawing on Pebble.
+
+  [Source](https://github.com/C-D-Lewis/pebble-isometric) - [NPM](https://www.npmjs.com/package/pebble-isometric)
+
 * pebble-packet - Never manually use AppMessage's `DictionaryIterator` again!
   
   [Source](https://github.com/C-D-Lewis/pebble-packet) - [NPM](https://www.npmjs.com/package/pebble-packet)
+
+* pebble-pge-simple - Simple looping game engine for Pebble.
+
+  [Source](https://github.com/C-D-Lewis/pebble-pge-simple) - [NPM](https://www.npmjs.com/package/pebble-pge-simple)
 
 * pebble-simple-request - Make simple `GET` and `POST` requests in PebbleKit JS. 
   
@@ -63,17 +71,13 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 
   [Source](https://github.com/C-D-Lewis/pebble-timeline-js-node) - [NPM](https://www.npmjs.com/package/pebble-timeline-js-node)
 
+* pebble-universal-fb - Simple wrapper for common framebuffer get/set/replace operations.
+
+  [Source](https://github.com/C-D-Lewis/pebble-universal-fb) - [NPM](https://www.npmjs.com/package/pebble-universal-fb)
+
 * pebble-version-check - Simple version checking library for Android companion apps.
 
   [Source](https://github.com/C-D-Lewis/pebble-version-check)
-
-* PGE - Simple looping game engine for Pebble with optional extensions.
-
-  [Source](https://github.com/C-D-Lewis/pge) - [NPM](https://www.npmjs.com/package/pebble-pge)
-
-* universal-fb - Simple wrapper for common framebuffer get/set/replace operations.
-
-  [Source](https://github.com/C-D-Lewis/universal-fb) - [NPM](https://www.npmjs.com/package/universal-fb)
 
 
 ## Old/Unsupported
