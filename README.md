@@ -11,7 +11,7 @@ This is a portfolio of all my published Pebble watchfaces, watchapps, and librar
 
 * News Headlines - See BBC News headlines in multiple categories.
 
-  [Appstore](https://apps.getpebble.com/applications/5387b383f60819963900000e)
+  [Appstore](https://apps.getpebble.com/applications/5387b383f60819963900000e) - [Source](https://github.com/C-D-Lewis/news-headlines)
 
 * Tube Status - See status of London Underground lines and get timeline pin alerts to delays.
 
