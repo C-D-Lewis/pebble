@@ -7,7 +7,7 @@ This is a portfolio of all my published Pebble watchfaces, watchapps, and librar
 
 * Dashboard - Control and view Android features (WiFi, BT, Ringer, Hotspot etc.).
 
-  [Appstore](https://apps.getpebble.com/applications/53ec8d840c3036447e000109) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.dashboard&hl=en)
+  [Appstore](https://apps.getpebble.com/applications/53ec8d840c3036447e000109) - [Google Play](https://play.google.com/store/apps/details?id=com.wordpress.ninedof.dashboard&hl=en) - [Source](https://github.com/C-D-Lewis/dashboard)
 
 * News Headlines - See BBC News headlines in multiple categories.
 
