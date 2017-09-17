@@ -34,7 +34,7 @@ Isotime - [Appstore](https://apps.getpebble.com/applications/554574943bbdc6c8560
 
 Thin - [Appstore](https://apps.getpebble.com/applications/550ccb556caaed4e0100006d) - [Source](https://github.com/C-D-Lewis/thin)
 
-Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa0000025) - [Source](https://github.com/pebble-hacks/time-dots)
+Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa0000025) - [Source](https://github.com/C-D-Lewis/time-dots-appstore)
 
 
 ## Libraries
