@@ -32,8 +32,6 @@ Eventful - [Appstore](https://apps.getpebble.com/en_US/application/579a076222f59
 
 Isotime - [Appstore](https://apps.getpebble.com/applications/554574943bbdc6c8560000bf) - [Source](https://github.com/pebble-hacks/isotime)
 
-KS Original - [Appstore](https://apps.getpebble.com/applications/55457fd43bbdc6cb800000ae) - [Source](https://github.com/pebble-examples/ks-clock-face)
-
 Thin - [Appstore](https://apps.getpebble.com/applications/550ccb556caaed4e0100006d) - [Source](https://github.com/C-D-Lewis/thin)
 
 Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa0000025) - [Source](https://github.com/pebble-hacks/time-dots)
@@ -95,6 +93,8 @@ Data Toggle - [Appstore](https://apps.getpebble.com/applications/5315d09e3184b45
 Eclipse - [Appstore](https://apps.getpebble.com/applications/533186dd4f6e8960e900021f) - [Source](https://github.com/C-D-Lewis/eclipse)
 
 Index - [Appstore](https://apps.getpebble.com/applications/53ce4305b40eda738a00018d) - [Source](https://github.com/C-D-Lewis/index)
+
+KS Original - [Appstore](https://apps.getpebble.com/applications/55457fd43bbdc6cb800000ae) - [Source](https://github.com/pebble-examples/ks-clock-face)
 
 Layout - [Source](https://github.com/pebble-hacks/layout)
 
