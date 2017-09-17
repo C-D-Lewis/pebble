@@ -26,8 +26,6 @@ This is a portfolio of all my published Pebble watchfaces, watchapps, and librar
 
 Beam Up - [Appstore](http://apps.getpebble.com/en_US/application/5299d4da129af7d723000079) - [Source](https://github.com/C-D-Lewis/beam-up)
 
-Brackets - [Appstore](https://apps.getpebble.com/applications/569c52fcee59668e2f00001d) - [Source](https://github.com/C-D-Lewis/brackets)
-
 Dual Gauge - [Appstore](https://apps.getpebble.com/en_US/application/578cb2e31e00a6c4b3000312) - [Source](https://github.com/C-D-Lewis/dual-gauge)
 
 Eventful - [Appstore](https://apps.getpebble.com/en_US/application/579a076222f599d627000064) - [Source](https://github.com/C-D-Lewis/eventful)
@@ -83,6 +81,8 @@ Time Dots - [Appstore](https://apps.getpebble.com/applications/56170d386ddd7f6aa
 ## Old/Unsupported
 
 Some of these have other variant repos, which are not hard to find.
+
+Brackets - [Appstore](https://apps.getpebble.com/applications/569c52fcee59668e2f00001d) - [Source](https://github.com/C-D-Lewis/brackets)
 
 Cards - [Appstore](https://apps.getpebble.com/applications/53ce41e5db5684c5fd000179) - [Source](https://github.com/C-D-Lewis/cards)
 
